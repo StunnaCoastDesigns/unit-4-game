@@ -1,0 +1,56 @@
+body {
+    background-image: url("../images/background.jpg");
+    font-family: 'Original Surfer', cursive;
+}
+
+.container-fluid {
+    width: 960px;
+}
+
+#jumbo-title {
+    background-color: #FFCD8C;
+    text-align: center;
+    font-weight: bolder;
+    background: rgb(255, 202, 132);
+    background: rgba(240, 196, 103, 0.5);
+}
+
+#card-header {
+    background-color: #E9BCB2;
+    text-align: center;
+    font-weight: bolder;
+    background: rgb(106, 192, 220);
+    /* This is for ie8 and below */
+    background: rgba(162, 24, 0, 0.329);
+}
+
+#main-card {
+    font-weight: bolder;
+}
+
+li {
+    list-style-type: circle;
+}
+
+#collectors-score-header {
+    background-color: #FFCD8C;
+    background: rgb(255, 202, 132);
+    background: rgba(240, 196, 103, 0.5);
+    text-align: center;
+}
+
+#luminous-score-header {
+    background-color: #FFCD8C;
+    background: rgb(255, 202, 132);
+    background: rgba(240, 196, 103, 0.5);
+    text-align: center;
+}
+
+#crystalHeader {
+    background-color: #E9BCB2;
+    background: rgb(106, 192, 220);
+    background: rgba(162, 24, 0, 0.329);
+    text-align: center;
+}
+
+ 
