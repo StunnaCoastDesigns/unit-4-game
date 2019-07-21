@@ -51,6 +51,19 @@ li {
     background: rgb(106, 192, 220);
     background: rgba(162, 24, 0, 0.329);
     text-align: center;
+    justify-items: center;
 }
 
- 
+#winsHeader {
+    background-color: #FFCD8C;
+    background: rgb(255, 202, 132);
+    background: rgba(240, 196, 103, 0.5);
+    text-align: center;
+}
+
+#lossesHeader {
+    background-color: #FFCD8C;
+    background: rgb(255, 202, 132);
+    background: rgba(240, 196, 103, 0.5);
+    text-align: center;
+}
