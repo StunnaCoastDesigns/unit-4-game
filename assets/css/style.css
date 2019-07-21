@@ -67,3 +67,11 @@ li {
     background: rgba(240, 196, 103, 0.5);
     text-align: center;
 }
+
+#results {
+    background-color: #E9BCB2;
+    background: rgb(106, 192, 220);
+    background: rgba(162, 24, 0, 0.329);
+    text-align: center;
+    justify-items: center;
+}
