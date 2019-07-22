@@ -97,7 +97,7 @@ function winLose() {
         startGame();
     }
     if (lossCount === 12) {
-        alert("Uh oh, too many rounds lost. Let's try again, Shine on!")
+        alert("too many rounds lost. Let's try again, Shine on!")
         restartGame();
     }
 }
@@ -119,5 +119,5 @@ $(document).ready(function () {
     $("#prism").on("click", function () {
         addvalues(cryValue.prism);
     });
-
+    restartGame();
 })
