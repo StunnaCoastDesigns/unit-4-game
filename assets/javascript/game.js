@@ -119,5 +119,4 @@ $(document).ready(function () {
     $("#prism").on("click", function () {
         addvalues(cryValue.prism);
     });
-    restartGame();
 })
